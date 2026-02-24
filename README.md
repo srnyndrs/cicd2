@@ -9,3 +9,4 @@ Key features:
 - Practical exercises and configurations for learning modern DevOps practices
 
 These materials are designed to help students gain real-world skills in CI/CD and DevOps automation.
+# test
